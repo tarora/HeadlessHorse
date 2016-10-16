@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/SteamVR/Scenes/example.unity
+  isLoaded: 1
+  isActive: 1
